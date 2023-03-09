@@ -1,0 +1,14 @@
+.listItem {
+  padding: 7px;
+  opacity: 0.75;
+}
+button {
+  background-color: #ffffff;
+  border-radius: 0px;
+  border-width: 0px;
+  padding: 0px;
+  cursor: pointer;
+}
+.activeThumbnailClass {
+  opacity: 1;
+}
